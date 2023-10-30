@@ -1,5 +1,5 @@
 # AutoMapper-Repository-tutorials
-The project is containing some technology such as Automapper, Repository pattern.
+The project contains technologies such as AutoMapper and Repository.
 Database: Sqlite
 ORM: EfCore
 Tools: Automapper
