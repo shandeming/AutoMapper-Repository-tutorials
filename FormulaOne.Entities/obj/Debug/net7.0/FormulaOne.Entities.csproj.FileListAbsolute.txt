@@ -1,0 +1,12 @@
+C:\Users\29628\Desktop\Test\baseAPP\FormulaOne.Entities\bin\Debug\net7.0\FormulaOne.Entities.deps.json
+C:\Users\29628\Desktop\Test\baseAPP\FormulaOne.Entities\bin\Debug\net7.0\FormulaOne.Entities.dll
+C:\Users\29628\Desktop\Test\baseAPP\FormulaOne.Entities\bin\Debug\net7.0\FormulaOne.Entities.pdb
+C:\Users\29628\Desktop\Test\baseAPP\FormulaOne.Entities\obj\Debug\net7.0\FormulaOne.Entities.csproj.AssemblyReference.cache
+C:\Users\29628\Desktop\Test\baseAPP\FormulaOne.Entities\obj\Debug\net7.0\FormulaOne.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\29628\Desktop\Test\baseAPP\FormulaOne.Entities\obj\Debug\net7.0\FormulaOne.Entities.AssemblyInfoInputs.cache
+C:\Users\29628\Desktop\Test\baseAPP\FormulaOne.Entities\obj\Debug\net7.0\FormulaOne.Entities.AssemblyInfo.cs
+C:\Users\29628\Desktop\Test\baseAPP\FormulaOne.Entities\obj\Debug\net7.0\FormulaOne.Entities.csproj.CoreCompileInputs.cache
+C:\Users\29628\Desktop\Test\baseAPP\FormulaOne.Entities\obj\Debug\net7.0\FormulaOne.Entities.dll
+C:\Users\29628\Desktop\Test\baseAPP\FormulaOne.Entities\obj\Debug\net7.0\refint\FormulaOne.Entities.dll
+C:\Users\29628\Desktop\Test\baseAPP\FormulaOne.Entities\obj\Debug\net7.0\FormulaOne.Entities.pdb
+C:\Users\29628\Desktop\Test\baseAPP\FormulaOne.Entities\obj\Debug\net7.0\ref\FormulaOne.Entities.dll
